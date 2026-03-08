@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 1,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 2,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 3,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 4,
+    "category": "spicy",
+    "text": "Look someone in the eyes for 10 seconds"
+  },
+  {
+    "id": 5,
+    "category": "social",
+    "text": "Share Dareloop with a friend"
+  },
+  {
+    "id": 6,
+    "category": "social",
+    "text": "Call someone and say 'guess who'"
+  },
+  {
+    "id": 7,
+    "category": "spicy",
+    "text": "Send a selfie right now"
+  },
+  {
+    "id": 8,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 9,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 10,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 11,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 12,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 13,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 14,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 15,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 16,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 17,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 18,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 19,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 20,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 21,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 22,
+    "category": "spicy",
+    "text": "Send a selfie right now"
+  },
+  {
+    "id": 23,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 24,
+    "category": "social",
+    "text": "Send a random meme to a friend"
+  },
+  {
+    "id": 25,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 26,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 27,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 28,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 29,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 30,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 31,
+    "category": "social",
+    "text": "Call someone and say 'guess who'"
+  },
+  {
+    "id": 32,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 33,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 34,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 35,
+    "category": "spicy",
+    "text": "Look someone in the eyes for 10 seconds"
+  },
+  {
+    "id": 36,
+    "category": "social",
+    "text": "Send a random meme to a friend"
+  },
+  {
+    "id": 37,
+    "category": "spicy",
+    "text": "Look someone in the eyes for 10 seconds"
+  },
+  {
+    "id": 38,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 39,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 40,
+    "category": "spicy",
+    "text": "Send a selfie right now"
+  },
+  {
+    "id": 41,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 42,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 43,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 44,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 45,
+    "category": "social",
+    "text": "Call someone and say 'guess who'"
+  },
+  {
+    "id": 46,
+    "category": "social",
+    "text": "Share Dareloop with a friend"
+  },
+  {
+    "id": 47,
+    "category": "funny",
+    "text": "Do your best evil laugh"
+  },
+  {
+    "id": 48,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 49,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 50,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 51,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 52,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 53,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 54,
+    "category": "spicy",
+    "text": "Look someone in the eyes for 10 seconds"
+  },
+  {
+    "id": 55,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 56,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 57,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 58,
+    "category": "funny",
+    "text": "Do your best evil laugh"
+  },
+  {
+    "id": 59,
+    "category": "funny",
+    "text": "Act like a chicken for 15 seconds"
+  },
+  {
+    "id": 60,
+    "category": "social",
+    "text": "Share Dareloop with a friend"
+  },
+  {
+    "id": 61,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 62,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 63,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 64,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 65,
+    "category": "party",
+    "text": "Do a quick freestyle rap"
+  },
+  {
+    "id": 66,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 67,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 68,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 69,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 70,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 71,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 72,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 73,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 74,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 75,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 76,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 77,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 78,
+    "category": "spicy",
+    "text": "Send a selfie right now"
+  },
+  {
+    "id": 79,
+    "category": "funny",
+    "text": "Do your best evil laugh"
+  },
+  {
+    "id": 80,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 81,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 82,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 83,
+    "category": "spicy",
+    "text": "Look someone in the eyes for 10 seconds"
+  },
+  {
+    "id": 84,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 85,
+    "category": "social",
+    "text": "Send a random meme to a friend"
+  },
+  {
+    "id": 86,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 87,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 88,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 89,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 90,
+    "category": "social",
+    "text": "Share Dareloop with a friend"
+  },
+  {
+    "id": 91,
+    "category": "social",
+    "text": "Call someone and say 'guess who'"
+  },
+  {
+    "id": 92,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 93,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 94,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 95,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 96,
+    "category": "party",
+    "text": "Do a quick freestyle rap"
+  },
+  {
+    "id": 97,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 98,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 99,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 100,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 101,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 102,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 103,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 104,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 105,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 106,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 107,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 108,
+    "category": "social",
+    "text": "Send a random meme to a friend"
+  },
+  {
+    "id": 109,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 110,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 111,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 112,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 113,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 114,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 115,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 116,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 117,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 118,
+    "category": "social",
+    "text": "Send a random meme to a friend"
+  },
+  {
+    "id": 119,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 120,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 121,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 122,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 123,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 124,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 125,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 126,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 127,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 128,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 129,
+    "category": "funny",
+    "text": "Do your best evil laugh"
+  },
+  {
+    "id": 130,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 131,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 132,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 133,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 134,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 135,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 136,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 137,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 138,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 139,
+    "category": "social",
+    "text": "Call someone and say 'guess who'"
+  },
+  {
+    "id": 140,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 141,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 142,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 143,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 144,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 145,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 146,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 147,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 148,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 149,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 150,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 151,
+    "category": "funny",
+    "text": "Act like a chicken for 15 seconds"
+  },
+  {
+    "id": 152,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 153,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 154,
+    "category": "spicy",
+    "text": "Send a selfie right now"
+  },
+  {
+    "id": 155,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 156,
+    "category": "social",
+    "text": "Share Dareloop with a friend"
+  },
+  {
+    "id": 157,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 158,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 159,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 160,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 161,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 162,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 163,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 164,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 165,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 166,
+    "category": "funny",
+    "text": "Act like a chicken for 15 seconds"
+  },
+  {
+    "id": 167,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 168,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 169,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 170,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 171,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 172,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 173,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 174,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 175,
+    "category": "spicy",
+    "text": "Look someone in the eyes for 10 seconds"
+  },
+  {
+    "id": 176,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 177,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 178,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 179,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 180,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 181,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 182,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 183,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 184,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 185,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 186,
+    "category": "social",
+    "text": "Call someone and say 'guess who'"
+  },
+  {
+    "id": 187,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 188,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 189,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 190,
+    "category": "spicy",
+    "text": "Look someone in the eyes for 10 seconds"
+  },
+  {
+    "id": 191,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 192,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 193,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 194,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 195,
+    "category": "funny",
+    "text": "Do your best evil laugh"
+  },
+  {
+    "id": 196,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 197,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 198,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 199,
+    "category": "social",
+    "text": "Share Dareloop with a friend"
+  },
+  {
+    "id": 200,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 201,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 202,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 203,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 204,
+    "category": "party",
+    "text": "Do a quick freestyle rap"
+  },
+  {
+    "id": 205,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 206,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 207,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 208,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 209,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 210,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 211,
+    "category": "social",
+    "text": "Share Dareloop with a friend"
+  },
+  {
+    "id": 212,
+    "category": "party",
+    "text": "Do a quick freestyle rap"
+  },
+  {
+    "id": 213,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 214,
+    "category": "social",
+    "text": "Call someone and say 'guess who'"
+  },
+  {
+    "id": 215,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 216,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 217,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 218,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 219,
+    "category": "funny",
+    "text": "Dance for 10 seconds"
+  },
+  {
+    "id": 220,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 221,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 222,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 223,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 224,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 225,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 226,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 227,
+    "category": "social",
+    "text": "Send a random meme to a friend"
+  },
+  {
+    "id": 228,
+    "category": "party",
+    "text": "Do a quick freestyle rap"
+  },
+  {
+    "id": 229,
+    "category": "spicy",
+    "text": "Look someone in the eyes for 10 seconds"
+  },
+  {
+    "id": 230,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 231,
+    "category": "social",
+    "text": "Send a random meme to a friend"
+  },
+  {
+    "id": 232,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 233,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 234,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 235,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 236,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 237,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 238,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 239,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 240,
+    "category": "spicy",
+    "text": "Look someone in the eyes for 10 seconds"
+  },
+  {
+    "id": 241,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 242,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 243,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 244,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 245,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 246,
+    "category": "social",
+    "text": "Share Dareloop with a friend"
+  },
+  {
+    "id": 247,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 248,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 249,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 250,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 251,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 252,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 253,
+    "category": "funny",
+    "text": "Act like a chicken for 15 seconds"
+  },
+  {
+    "id": 254,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 255,
+    "category": "funny",
+    "text": "Act like a chicken for 15 seconds"
+  },
+  {
+    "id": 256,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 257,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 258,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 259,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 260,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 261,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 262,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 263,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 264,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 265,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 266,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 267,
+    "category": "party",
+    "text": "Do a quick freestyle rap"
+  },
+  {
+    "id": 268,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 269,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 270,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 271,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 272,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 273,
+    "category": "funny",
+    "text": "Act like a chicken for 15 seconds"
+  },
+  {
+    "id": 274,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 275,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 276,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 277,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 278,
+    "category": "funny",
+    "text": "Do your best evil laugh"
+  },
+  {
+    "id": 279,
+    "category": "social",
+    "text": "Share Dareloop with a friend"
+  },
+  {
+    "id": 280,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 281,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 282,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 283,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 284,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 285,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 286,
+    "category": "funny",
+    "text": "Act like a chicken for 15 seconds"
+  },
+  {
+    "id": 287,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 288,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 289,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 290,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 291,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 292,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 293,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 294,
+    "category": "funny",
+    "text": "Act like a chicken for 15 seconds"
+  },
+  {
+    "id": 295,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 296,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 297,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 298,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 299,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 300,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 301,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 302,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 303,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 304,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 305,
+    "category": "party",
+    "text": "Do a quick freestyle rap"
+  },
+  {
+    "id": 306,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 307,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 308,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 309,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 310,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 311,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 312,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 313,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 314,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 315,
+    "category": "party",
+    "text": "Do a quick freestyle rap"
+  },
+  {
+    "id": 316,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 317,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 318,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 319,
+    "category": "party",
+    "text": "Do a quick freestyle rap"
+  },
+  {
+    "id": 320,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 321,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 322,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 323,
+    "category": "spicy",
+    "text": "Send a selfie right now"
+  },
+  {
+    "id": 324,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 325,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 326,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 327,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 328,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 329,
+    "category": "social",
+    "text": "Send a random meme to a friend"
+  },
+  {
+    "id": 330,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 331,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 332,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 333,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 334,
+    "category": "party",
+    "text": "Do a quick freestyle rap"
+  },
+  {
+    "id": 335,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 336,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 337,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 338,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 339,
+    "category": "spicy",
+    "text": "Look someone in the eyes for 10 seconds"
+  },
+  {
+    "id": 340,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 341,
+    "category": "social",
+    "text": "Share Dareloop with a friend"
+  },
+  {
+    "id": 342,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 343,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 344,
+    "category": "spicy",
+    "text": "Send a selfie right now"
+  },
+  {
+    "id": 345,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 346,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 347,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 348,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 349,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 350,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 351,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 352,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 353,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 354,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 355,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 356,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 357,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 358,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 359,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 360,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 361,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 362,
+    "category": "party",
+    "text": "Do a quick freestyle rap"
+  },
+  {
+    "id": 363,
+    "category": "spicy",
+    "text": "Send a selfie right now"
+  },
+  {
+    "id": 364,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 365,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 366,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 367,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 368,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 369,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 370,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 371,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 372,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 373,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 374,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 375,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 376,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 377,
+    "category": "funny",
+    "text": "Do your best evil laugh"
+  },
+  {
+    "id": 378,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 379,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 380,
+    "category": "social",
+    "text": "Call someone and say 'guess who'"
+  },
+  {
+    "id": 381,
+    "category": "spicy",
+    "text": "Send a selfie right now"
+  },
+  {
+    "id": 382,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 383,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 384,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 385,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 386,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 387,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 388,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 389,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 390,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 391,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 392,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 393,
+    "category": "party",
+    "text": "Do a quick freestyle rap"
+  },
+  {
+    "id": 394,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 395,
+    "category": "funny",
+    "text": "Do your best evil laugh"
+  },
+  {
+    "id": 396,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 397,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 398,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 399,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 400,
+    "category": "funny",
+    "text": "Do your best evil laugh"
+  },
+  {
+    "id": 401,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 402,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 403,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 404,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 405,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 406,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 407,
+    "category": "spicy",
+    "text": "Look someone in the eyes for 10 seconds"
+  },
+  {
+    "id": 408,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 409,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 410,
+    "category": "funny",
+    "text": "Do your best evil laugh"
+  },
+  {
+    "id": 411,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 412,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 413,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 414,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 415,
+    "category": "funny",
+    "text": "Act like a chicken for 15 seconds"
+  },
+  {
+    "id": 416,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 417,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 418,
+    "category": "spicy",
+    "text": "Send a selfie right now"
+  },
+  {
+    "id": 419,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 420,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 421,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 422,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 423,
+    "category": "social",
+    "text": "Call someone and say 'guess who'"
+  },
+  {
+    "id": 424,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 425,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 426,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 427,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 428,
+    "category": "social",
+    "text": "Send a random meme to a friend"
+  },
+  {
+    "id": 429,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 430,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 431,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 432,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 433,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 434,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 435,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 436,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 437,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 438,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 439,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 440,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 441,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 442,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 443,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 444,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 445,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 446,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 447,
+    "category": "funny",
+    "text": "Dance for 10 seconds"
+  },
+  {
+    "id": 448,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 449,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 450,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 451,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 452,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 453,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 454,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 455,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 456,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 457,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 458,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 459,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 460,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 461,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 462,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 463,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 464,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 465,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 466,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 467,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 468,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 469,
+    "category": "funny",
+    "text": "Do your best evil laugh"
+  },
+  {
+    "id": 470,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 471,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 472,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 473,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 474,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 475,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 476,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 477,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 478,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 479,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 480,
+    "category": "funny",
+    "text": "Do your best evil laugh"
+  },
+  {
+    "id": 481,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 482,
+    "category": "spicy",
+    "text": "Send a selfie right now"
+  },
+  {
+    "id": 483,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 484,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 485,
+    "category": "funny",
+    "text": "Act like a chicken for 15 seconds"
+  },
+  {
+    "id": 486,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 487,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 488,
+    "category": "funny",
+    "text": "Do your best evil laugh"
+  },
+  {
+    "id": 489,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 490,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 491,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 492,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 493,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 494,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 495,
+    "category": "funny",
+    "text": "Dance for 10 seconds"
+  },
+  {
+    "id": 496,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 497,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 498,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 499,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 500,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 501,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 502,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 503,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 504,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 505,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 506,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 507,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 508,
+    "category": "funny",
+    "text": "Dance for 10 seconds"
+  },
+  {
+    "id": 509,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 510,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 511,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 512,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 513,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 514,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 515,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 516,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 517,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 518,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 519,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 520,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 521,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 522,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 523,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 524,
+    "category": "social",
+    "text": "Share Dareloop with a friend"
+  },
+  {
+    "id": 525,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 526,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 527,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 528,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 529,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 530,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 531,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 532,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 533,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 534,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 535,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 536,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 537,
+    "category": "social",
+    "text": "Share Dareloop with a friend"
+  },
+  {
+    "id": 538,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 539,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 540,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 541,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 542,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 543,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 544,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 545,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 546,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 547,
+    "category": "funny",
+    "text": "Act like a chicken for 15 seconds"
+  },
+  {
+    "id": 548,
+    "category": "funny",
+    "text": "Dance for 10 seconds"
+  },
+  {
+    "id": 549,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 550,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 551,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 552,
+    "category": "spicy",
+    "text": "Look someone in the eyes for 10 seconds"
+  },
+  {
+    "id": 553,
+    "category": "social",
+    "text": "Send a random meme to a friend"
+  },
+  {
+    "id": 554,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 555,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 556,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 557,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 558,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 559,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 560,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 561,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 562,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 563,
+    "category": "spicy",
+    "text": "Send a selfie right now"
+  },
+  {
+    "id": 564,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 565,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 566,
+    "category": "social",
+    "text": "Share Dareloop with a friend"
+  },
+  {
+    "id": 567,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 568,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 569,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 570,
+    "category": "social",
+    "text": "Share Dareloop with a friend"
+  },
+  {
+    "id": 571,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 572,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 573,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 574,
+    "category": "spicy",
+    "text": "Send a selfie right now"
+  },
+  {
+    "id": 575,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 576,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 577,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 578,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 579,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 580,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 581,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 582,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 583,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 584,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 585,
+    "category": "funny",
+    "text": "Dance for 10 seconds"
+  },
+  {
+    "id": 586,
+    "category": "funny",
+    "text": "Act like a chicken for 15 seconds"
+  },
+  {
+    "id": 587,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 588,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 589,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 590,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 591,
+    "category": "funny",
+    "text": "Do your best evil laugh"
+  },
+  {
+    "id": 592,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 593,
+    "category": "funny",
+    "text": "Do your best evil laugh"
+  },
+  {
+    "id": 594,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 595,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 596,
+    "category": "party",
+    "text": "Do a quick freestyle rap"
+  },
+  {
+    "id": 597,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 598,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 599,
+    "category": "social",
+    "text": "Call someone and say 'guess who'"
+  },
+  {
+    "id": 600,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 601,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 602,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 603,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 604,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 605,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 606,
+    "category": "social",
+    "text": "Call someone and say 'guess who'"
+  },
+  {
+    "id": 607,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 608,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 609,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 610,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 611,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 612,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 613,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 614,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 615,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 616,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 617,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 618,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 619,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 620,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 621,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 622,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 623,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 624,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 625,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 626,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 627,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 628,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 629,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 630,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 631,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 632,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 633,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 634,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 635,
+    "category": "social",
+    "text": "Call someone and say 'guess who'"
+  },
+  {
+    "id": 636,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 637,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 638,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 639,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 640,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 641,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 642,
+    "category": "social",
+    "text": "Share Dareloop with a friend"
+  },
+  {
+    "id": 643,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 644,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 645,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 646,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 647,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 648,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 649,
+    "category": "social",
+    "text": "Share Dareloop with a friend"
+  },
+  {
+    "id": 650,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 651,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 652,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 653,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 654,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 655,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 656,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 657,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 658,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 659,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 660,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 661,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 662,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 663,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 664,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 665,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 666,
+    "category": "spicy",
+    "text": "Send a selfie right now"
+  },
+  {
+    "id": 667,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 668,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 669,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 670,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 671,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 672,
+    "category": "funny",
+    "text": "Do your best evil laugh"
+  },
+  {
+    "id": 673,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 674,
+    "category": "funny",
+    "text": "Act like a chicken for 15 seconds"
+  },
+  {
+    "id": 675,
+    "category": "funny",
+    "text": "Do your best evil laugh"
+  },
+  {
+    "id": 676,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 677,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 678,
+    "category": "social",
+    "text": "Share Dareloop with a friend"
+  },
+  {
+    "id": 679,
+    "category": "funny",
+    "text": "Dance for 10 seconds"
+  },
+  {
+    "id": 680,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 681,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 682,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 683,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 684,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 685,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 686,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 687,
+    "category": "social",
+    "text": "Share Dareloop with a friend"
+  },
+  {
+    "id": 688,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 689,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 690,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 691,
+    "category": "spicy",
+    "text": "Send a selfie right now"
+  },
+  {
+    "id": 692,
+    "category": "social",
+    "text": "Send a random meme to a friend"
+  },
+  {
+    "id": 693,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 694,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 695,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 696,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 697,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 698,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 699,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 700,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 701,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 702,
+    "category": "funny",
+    "text": "Act like a chicken for 15 seconds"
+  },
+  {
+    "id": 703,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 704,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 705,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 706,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 707,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 708,
+    "category": "social",
+    "text": "Call someone and say 'guess who'"
+  },
+  {
+    "id": 709,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 710,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 711,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 712,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 713,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 714,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 715,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 716,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 717,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 718,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 719,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 720,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 721,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 722,
+    "category": "social",
+    "text": "Share Dareloop with a friend"
+  },
+  {
+    "id": 723,
+    "category": "funny",
+    "text": "Dance for 10 seconds"
+  },
+  {
+    "id": 724,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 725,
+    "category": "spicy",
+    "text": "Look someone in the eyes for 10 seconds"
+  },
+  {
+    "id": 726,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 727,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 728,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 729,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 730,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 731,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 732,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 733,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 734,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 735,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 736,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 737,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 738,
+    "category": "social",
+    "text": "Call someone and say 'guess who'"
+  },
+  {
+    "id": 739,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 740,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 741,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 742,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 743,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 744,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 745,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 746,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 747,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 748,
+    "category": "party",
+    "text": "Do a quick freestyle rap"
+  },
+  {
+    "id": 749,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 750,
+    "category": "funny",
+    "text": "Dance for 10 seconds"
+  },
+  {
+    "id": 751,
+    "category": "party",
+    "text": "Do a quick freestyle rap"
+  },
+  {
+    "id": 752,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 753,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 754,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 755,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 756,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 757,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 758,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 759,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 760,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 761,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 762,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 763,
+    "category": "funny",
+    "text": "Act like a chicken for 15 seconds"
+  },
+  {
+    "id": 764,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 765,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 766,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 767,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 768,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 769,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 770,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 771,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 772,
+    "category": "spicy",
+    "text": "Send a selfie right now"
+  },
+  {
+    "id": 773,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 774,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 775,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 776,
+    "category": "party",
+    "text": "Do a quick freestyle rap"
+  },
+  {
+    "id": 777,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 778,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 779,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 780,
+    "category": "party",
+    "text": "Do a quick freestyle rap"
+  },
+  {
+    "id": 781,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 782,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 783,
+    "category": "spicy",
+    "text": "Look someone in the eyes for 10 seconds"
+  },
+  {
+    "id": 784,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 785,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 786,
+    "category": "social",
+    "text": "Share Dareloop with a friend"
+  },
+  {
+    "id": 787,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 788,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 789,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 790,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 791,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 792,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 793,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 794,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 795,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 796,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 797,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 798,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 799,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 800,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 801,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 802,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 803,
+    "category": "social",
+    "text": "Send a random meme to a friend"
+  },
+  {
+    "id": 804,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 805,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 806,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 807,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 808,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 809,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 810,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 811,
+    "category": "funny",
+    "text": "Act like a chicken for 15 seconds"
+  },
+  {
+    "id": 812,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 813,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 814,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 815,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 816,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 817,
+    "category": "social",
+    "text": "Send a random meme to a friend"
+  },
+  {
+    "id": 818,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 819,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 820,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 821,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 822,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 823,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 824,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 825,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 826,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 827,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 828,
+    "category": "party",
+    "text": "Do a quick freestyle rap"
+  },
+  {
+    "id": 829,
+    "category": "funny",
+    "text": "Dance for 10 seconds"
+  },
+  {
+    "id": 830,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 831,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 832,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 833,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 834,
+    "category": "spicy",
+    "text": "Send a selfie right now"
+  },
+  {
+    "id": 835,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 836,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 837,
+    "category": "funny",
+    "text": "Dance for 10 seconds"
+  },
+  {
+    "id": 838,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 839,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 840,
+    "category": "spicy",
+    "text": "Look someone in the eyes for 10 seconds"
+  },
+  {
+    "id": 841,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 842,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 843,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 844,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 845,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 846,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 847,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 848,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 849,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 850,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 851,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 852,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 853,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 854,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 855,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 856,
+    "category": "spicy",
+    "text": "Look someone in the eyes for 10 seconds"
+  },
+  {
+    "id": 857,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 858,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 859,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 860,
+    "category": "funny",
+    "text": "Act like a chicken for 15 seconds"
+  },
+  {
+    "id": 861,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 862,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 863,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 864,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 865,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 866,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 867,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 868,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 869,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 870,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 871,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 872,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 873,
+    "category": "social",
+    "text": "Send a random meme to a friend"
+  },
+  {
+    "id": 874,
+    "category": "spicy",
+    "text": "Look someone in the eyes for 10 seconds"
+  },
+  {
+    "id": 875,
+    "category": "social",
+    "text": "Send a random meme to a friend"
+  },
+  {
+    "id": 876,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 877,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 878,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 879,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 880,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 881,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 882,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 883,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 884,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 885,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 886,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 887,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 888,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 889,
+    "category": "spicy",
+    "text": "Look someone in the eyes for 10 seconds"
+  },
+  {
+    "id": 890,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 891,
+    "category": "funny",
+    "text": "Dance for 10 seconds"
+  },
+  {
+    "id": 892,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 893,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 894,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 895,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 896,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 897,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 898,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 899,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 900,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 901,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 902,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 903,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 904,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 905,
+    "category": "social",
+    "text": "Call someone and say 'guess who'"
+  },
+  {
+    "id": 906,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 907,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 908,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 909,
+    "category": "spicy",
+    "text": "Say something seductive in a movie voice"
+  },
+  {
+    "id": 910,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 911,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 912,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 913,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 914,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 915,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 916,
+    "category": "spicy",
+    "text": "Describe your ideal kiss"
+  },
+  {
+    "id": 917,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 918,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 919,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 920,
+    "category": "funny",
+    "text": "Act like a chicken for 15 seconds"
+  },
+  {
+    "id": 921,
+    "category": "funny",
+    "text": "Act like a chicken for 15 seconds"
+  },
+  {
+    "id": 922,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 923,
+    "category": "social",
+    "text": "Send a random meme to a friend"
+  },
+  {
+    "id": 924,
+    "category": "funny",
+    "text": "Do your best evil laugh"
+  },
+  {
+    "id": 925,
+    "category": "social",
+    "text": "Text someone 'You won't believe what just happened'"
+  },
+  {
+    "id": 926,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 927,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 928,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 929,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 930,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 931,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 932,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 933,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 934,
+    "category": "spicy",
+    "text": "Text your crush 'I miss you'"
+  },
+  {
+    "id": 935,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 936,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 937,
+    "category": "party",
+    "text": "Spin around 5 times then walk straight"
+  },
+  {
+    "id": 938,
+    "category": "party",
+    "text": "Do a quick freestyle rap"
+  },
+  {
+    "id": 939,
+    "category": "social",
+    "text": "Share this dare on WhatsApp"
+  },
+  {
+    "id": 940,
+    "category": "social",
+    "text": "Send a random meme to a friend"
+  },
+  {
+    "id": 941,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 942,
+    "category": "party",
+    "text": "Balance on one foot for 15 seconds"
+  },
+  {
+    "id": 943,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  },
+  {
+    "id": 944,
+    "category": "social",
+    "text": "Call someone and say 'guess who'"
+  },
+  {
+    "id": 945,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 946,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 947,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 948,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 949,
+    "category": "funny",
+    "text": "Talk in slow motion for the next round"
+  },
+  {
+    "id": 950,
+    "category": "funny",
+    "text": "Do your best animal impression"
+  },
+  {
+    "id": 951,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 952,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 953,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 954,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 955,
+    "category": "funny",
+    "text": "Pretend the floor is lava for 10 seconds"
+  },
+  {
+    "id": 956,
+    "category": "social",
+    "text": "Call someone and say 'guess who'"
+  },
+  {
+    "id": 957,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 958,
+    "category": "social",
+    "text": "Challenge a friend to join Dareloop"
+  },
+  {
+    "id": 959,
+    "category": "funny",
+    "text": "Dance for 10 seconds"
+  },
+  {
+    "id": 960,
+    "category": "spicy",
+    "text": "Look someone in the eyes for 10 seconds"
+  },
+  {
+    "id": 961,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 962,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 963,
+    "category": "party",
+    "text": "Make a funny face for 10 seconds"
+  },
+  {
+    "id": 964,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 965,
+    "category": "spicy",
+    "text": "Whisper something playful"
+  },
+  {
+    "id": 966,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 967,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 968,
+    "category": "party",
+    "text": "Try to whistle loudly"
+  },
+  {
+    "id": 969,
+    "category": "social",
+    "text": "Call someone and say 'guess who'"
+  },
+  {
+    "id": 970,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 971,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 972,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 973,
+    "category": "funny",
+    "text": "Try to lick your elbow"
+  },
+  {
+    "id": 974,
+    "category": "party",
+    "text": "Do 10 push-ups"
+  },
+  {
+    "id": 975,
+    "category": "social",
+    "text": "Send a random meme to a friend"
+  },
+  {
+    "id": 976,
+    "category": "social",
+    "text": "Send a random meme to a friend"
+  },
+  {
+    "id": 977,
+    "category": "social",
+    "text": "Send a voice message saying hello dramatically"
+  },
+  {
+    "id": 978,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 979,
+    "category": "party",
+    "text": "Act like a celebrity"
+  },
+  {
+    "id": 980,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 981,
+    "category": "party",
+    "text": "Let someone choose your next dare"
+  },
+  {
+    "id": 982,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 983,
+    "category": "spicy",
+    "text": "Send a selfie right now"
+  },
+  {
+    "id": 984,
+    "category": "spicy",
+    "text": "Admit your last crush"
+  },
+  {
+    "id": 985,
+    "category": "funny",
+    "text": "Dance for 10 seconds"
+  },
+  {
+    "id": 986,
+    "category": "social",
+    "text": "Post a random emoji in your group chat"
+  },
+  {
+    "id": 987,
+    "category": "funny",
+    "text": "Do a silly walk across the room"
+  },
+  {
+    "id": 988,
+    "category": "social",
+    "text": "Send a GIF to the last person you chatted with"
+  },
+  {
+    "id": 989,
+    "category": "spicy",
+    "text": "Send a selfie right now"
+  },
+  {
+    "id": 990,
+    "category": "party",
+    "text": "Do a quick freestyle rap"
+  },
+  {
+    "id": 991,
+    "category": "social",
+    "text": "Send a random meme to a friend"
+  },
+  {
+    "id": 992,
+    "category": "social",
+    "text": "Send this dare to 3 friends"
+  },
+  {
+    "id": 993,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 994,
+    "category": "spicy",
+    "text": "Send a heart emoji to your last chat"
+  },
+  {
+    "id": 995,
+    "category": "spicy",
+    "text": "Say the most attractive thing about someone here"
+  },
+  {
+    "id": 996,
+    "category": "funny",
+    "text": "Speak in a robot voice for the next round"
+  },
+  {
+    "id": 997,
+    "category": "party",
+    "text": "Tell a joke and make everyone laugh"
+  },
+  {
+    "id": 998,
+    "category": "spicy",
+    "text": "Send a flirty emoji to the last person you texted"
+  },
+  {
+    "id": 999,
+    "category": "funny",
+    "text": "Sing the chorus of a random song"
+  },
+  {
+    "id": 1000,
+    "category": "party",
+    "text": "Clap your hands for 20 seconds"
+  }
+]
