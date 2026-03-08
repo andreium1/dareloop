@@ -15,23 +15,14 @@ export default function Home() {
     return 20
   })
   const [category, setCategory] = useState("mix")
-  function handleWheel(result) { 
-    setDare(result.text)
-    }
-  function spinDare() {
+
+  function handleWheelResult(result) {
     if (spins <= 0) {
       alert("No spins left. Share Dareloop to unlock more 🔓")
       return
     }
 
-    let pool = dares
-
-    if (category !== "mix") {
-      pool = dares.filter((item) => item.category === category)
-    }
-
-    const random = pool[Math.floor(Math.random() * pool.length)]
-    setDare(random.text)
+    setDare(result.text)
     setSpins(spins - 1)
     localStorage.setItem("spins", spins - 1)
   }
@@ -46,17 +37,7 @@ export default function Home() {
     localStorage.setItem("spins", spins + 10)
   }
 
-  function shareDare()
-  function handleWheelResult(result) {
-  if (spins <= 0) {
-    alert("No spins left. Share Dareloop to unlock more 🔓")
-    return
-  }
-
-  setDare(result.text)
-  setSpins(spins - 1)
-  localStorage.setItem("spins", spins - 1)
-}{
+  function shareDare() {
     const text = encodeURIComponent(
       `${dare}\n\nPlay here: ${window.location.href}`
     )
@@ -80,7 +61,7 @@ export default function Home() {
         className="animated-shell glow-card"
         style={{
           width: "100%",
-          maxWidth: "760px",
+          maxWidth: "820px",
           textAlign: "center",
           background: "rgba(255,255,255,0.06)",
           border: "1px solid rgba(255,255,255,0.12)",
@@ -134,7 +115,7 @@ export default function Home() {
 
         <div
           style={{
-            marginBottom: "12px",
+            marginBottom: "16px",
             fontSize: "16px",
             color: "#cbd5e1",
             fontWeight: "600",
@@ -146,7 +127,7 @@ export default function Home() {
         <div
           className="dare-reveal"
           style={{
-            minHeight: "160px",
+            minHeight: "140px",
             display: "flex",
             justifyContent: "center",
             alignItems: "center",
@@ -164,11 +145,11 @@ export default function Home() {
         </div>
 
         <SpinWheel
-  dares={dares}
-  category={category}
-  onResult={handleWheelResult}
-  disabled={spins <= 0}
-/>
+          dares={dares}
+          category={category}
+          onResult={handleWheelResult}
+          disabled={spins <= 0}
+        />
 
         {dare !== "Press SPIN to get a dare 🎲" && (
           <VideoRecorder dare={dare} />
