@@ -3,6 +3,7 @@
 import { useState } from "react"
 import dares from "../dareloop_1000_dares.json"
 import VideoRecorder from "../components/VideoRecorder"
+import SpinWheel from "../components/SpinWheel"
 
 export default function Home() {
   const [dare, setDare] = useState("Press SPIN to get a dare 🎲")
@@ -43,7 +44,17 @@ export default function Home() {
     localStorage.setItem("spins", spins + 10)
   }
 
-  function shareDare() {
+  function shareDare()
+  function handleWheelResult(result) {
+  if (spins <= 0) {
+    alert("No spins left. Share Dareloop to unlock more 🔓")
+    return
+  }
+
+  setDare(result.text)
+  setSpins(spins - 1)
+  localStorage.setItem("spins", spins - 1)
+}{
     const text = encodeURIComponent(
       `${dare}\n\nPlay here: ${window.location.href}`
     )
@@ -150,24 +161,12 @@ export default function Home() {
           {dare}
         </div>
 
-        <button
-          className="spin-button"
-          onClick={spinDare}
-          style={{
-            padding: "16px 42px",
-            fontSize: "22px",
-            fontWeight: "700",
-            background: "linear-gradient(90deg, #22c55e, #06b6d4)",
-            color: "white",
-            border: "none",
-            borderRadius: "14px",
-            cursor: "pointer",
-            marginBottom: "22px",
-            boxShadow: "0 0 20px rgba(34,197,94,0.35)",
-          }}
-        >
-          🎲 SPIN
-        </button>
+        <SpinWheel
+  dares={dares}
+  category={category}
+  onResult={handleWheelResult}
+  disabled={spins <= 0}
+/>
 
         {dare !== "Press SPIN to get a dare 🎲" && (
           <VideoRecorder dare={dare} />
