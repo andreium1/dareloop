@@ -64,11 +64,56 @@ export default function VideoRecorder({ dare }) {
     document.body.removeChild(link)
   }
 
-  function shareDare() {
-    const message = encodeURIComponent(
-      `I got this Dareloop challenge 😈\n\n${dare}\n\nTry it here:\n${window.location.origin}`
+  function getShareText() {
+    return `I got this Dareloop challenge 😈\n\n${dare}\n\nTry it here:\n${window.location.origin}`
+  }
+
+  function shareNative() {
+    const text = getShareText()
+
+    if (navigator.share) {
+      navigator.share({
+        title: "Dareloop",
+        text,
+        url: window.location.origin,
+      })
+    } else {
+      alert("Native share is not available on this device.")
+    }
+  }
+
+  function shareWhatsApp() {
+    const text = encodeURIComponent(getShareText())
+    window.open(`https://wa.me/?text=${text}`, "_blank")
+  }
+
+  function shareTelegram() {
+    const text = encodeURIComponent(getShareText())
+    window.open(
+      `https://t.me/share/url?url=${encodeURIComponent(window.location.origin)}&text=${text}`,
+      "_blank"
     )
-    window.open(`https://wa.me/?text=${message}`, "_blank")
+  }
+
+  function shareTwitter() {
+    const text = encodeURIComponent(`I got this Dareloop challenge 😈\n\n${dare}`)
+    const url = encodeURIComponent(window.location.origin)
+    window.open(`https://twitter.com/intent/tweet?text=${text}&url=${url}`, "_blank")
+  }
+
+  function shareFacebook() {
+    const url = encodeURIComponent(window.location.origin)
+    window.open(`https://www.facebook.com/sharer/sharer.php?u=${url}`, "_blank")
+  }
+
+  function copyLink() {
+    navigator.clipboard.writeText(window.location.origin)
+    alert("Link copied ✅")
+  }
+
+  function copyCaption() {
+    navigator.clipboard.writeText(getShareText())
+    alert("Caption copied ✅")
   }
 
   return (
@@ -150,44 +195,150 @@ export default function VideoRecorder({ dare }) {
       )}
 
       {videoURL && (
-        <div
-          style={{
-            display: "flex",
-            gap: "12px",
-            flexWrap: "wrap",
-            justifyContent: "center",
-          }}
-        >
-          <button
-            onClick={downloadVideo}
+        <>
+          <div
             style={{
-              padding: "12px 20px",
-              fontSize: "16px",
-              background: "#22c55e",
-              color: "white",
-              border: "none",
-              borderRadius: "12px",
-              cursor: "pointer",
+              display: "flex",
+              gap: "12px",
+              flexWrap: "wrap",
+              justifyContent: "center",
             }}
           >
-            ⬇ Download Video
-          </button>
+            <button
+              onClick={downloadVideo}
+              style={{
+                padding: "12px 20px",
+                fontSize: "16px",
+                background: "#22c55e",
+                color: "white",
+                border: "none",
+                borderRadius: "12px",
+                cursor: "pointer",
+              }}
+            >
+              ⬇ Download Video
+            </button>
 
-          <button
-            onClick={shareDare}
+            <button
+              onClick={shareNative}
+              style={{
+                padding: "12px 20px",
+                fontSize: "16px",
+                background: "#0ea5e9",
+                color: "white",
+                border: "none",
+                borderRadius: "12px",
+                cursor: "pointer",
+              }}
+            >
+              📲 Share
+            </button>
+
+            <button
+              onClick={shareWhatsApp}
+              style={{
+                padding: "12px 20px",
+                fontSize: "16px",
+                background: "#25D366",
+                color: "white",
+                border: "none",
+                borderRadius: "12px",
+                cursor: "pointer",
+              }}
+            >
+              WhatsApp
+            </button>
+
+            <button
+              onClick={shareTelegram}
+              style={{
+                padding: "12px 20px",
+                fontSize: "16px",
+                background: "#229ED9",
+                color: "white",
+                border: "none",
+                borderRadius: "12px",
+                cursor: "pointer",
+              }}
+            >
+              Telegram
+            </button>
+
+            <button
+              onClick={shareTwitter}
+              style={{
+                padding: "12px 20px",
+                fontSize: "16px",
+                background: "#1D9BF0",
+                color: "white",
+                border: "none",
+                borderRadius: "12px",
+                cursor: "pointer",
+              }}
+            >
+              X / Twitter
+            </button>
+
+            <button
+              onClick={shareFacebook}
+              style={{
+                padding: "12px 20px",
+                fontSize: "16px",
+                background: "#1877F2",
+                color: "white",
+                border: "none",
+                borderRadius: "12px",
+                cursor: "pointer",
+              }}
+            >
+              Facebook
+            </button>
+
+            <button
+              onClick={copyCaption}
+              style={{
+                padding: "12px 20px",
+                fontSize: "16px",
+                background: "#475569",
+                color: "white",
+                border: "none",
+                borderRadius: "12px",
+                cursor: "pointer",
+              }}
+            >
+              Copy Caption
+            </button>
+
+            <button
+              onClick={copyLink}
+              style={{
+                padding: "12px 20px",
+                fontSize: "16px",
+                background: "#7c3aed",
+                color: "white",
+                border: "none",
+                borderRadius: "12px",
+                cursor: "pointer",
+              }}
+            >
+              Copy Link
+            </button>
+          </div>
+
+          <p
             style={{
-              padding: "12px 20px",
-              fontSize: "16px",
-              background: "#7c3aed",
-              color: "white",
-              border: "none",
-              borderRadius: "12px",
-              cursor: "pointer",
+              marginTop: "14px",
+              fontSize: "14px",
+              color: "#cbd5e1",
+              textAlign: "center",
+              maxWidth: "520px",
+              lineHeight: "1.5",
             }}
           >
-            Share Dare
-          </button>
-        </div>
+            Download your video and post it on TikTok or Instagram Reels.
+            Direct video posting to those apps is not reliably supported from a website.
+          </p>
+        </>
       )}
     </div>
   )
