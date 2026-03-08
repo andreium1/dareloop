@@ -164,7 +164,7 @@ export default function Home() {
         >
           🎲 SPIN
         </button>
-
+        <VideoRecorder dare={dare} />
         <div
           style={{
             display: "flex",
