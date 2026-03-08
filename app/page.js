@@ -1,17 +1,18 @@
 "use client"
-import VideoRecorder from "../components/VideoRecorder"
+
 import { useState } from "react"
 import dares from "../dareloop_1000_dares.json"
+import VideoRecorder from "../components/VideoRecorder"
 
 export default function Home() {
   const [dare, setDare] = useState("Press SPIN to get a dare 🎲")
   const [spins, setSpins] = useState(() => {
-  if (typeof window !== "undefined") {
-    const saved = localStorage.getItem("spins")
-    return saved ? parseInt(saved) : 20
-  }
-  return 20
-})
+    if (typeof window !== "undefined") {
+      const saved = localStorage.getItem("spins")
+      return saved ? parseInt(saved) : 20
+    }
+    return 20
+  })
   const [category, setCategory] = useState("mix")
 
   function spinDare() {
@@ -31,7 +32,7 @@ export default function Home() {
     setSpins(spins - 1)
     localStorage.setItem("spins", spins - 1)
   }
-  
+
   function unlockSpins() {
     const message = encodeURIComponent(
       `I dare you 😈\n\nPlay Dareloop here:\n${window.location.href}`
@@ -41,10 +42,11 @@ export default function Home() {
     setSpins(spins + 10)
     localStorage.setItem("spins", spins + 10)
   }
-    
-  
+
   function shareDare() {
-    const text = encodeURIComponent(`${dare}\n\nPlay here: ${window.location.href}`)
+    const text = encodeURIComponent(
+      `${dare}\n\nPlay here: ${window.location.href}`
+    )
     window.open(`https://wa.me/?text=${text}`, "_blank")
   }
 
@@ -62,6 +64,7 @@ export default function Home() {
       }}
     >
       <div
+        className="animated-shell glow-card"
         style={{
           width: "100%",
           maxWidth: "760px",
@@ -70,7 +73,6 @@ export default function Home() {
           border: "1px solid rgba(255,255,255,0.12)",
           borderRadius: "24px",
           padding: "40px 24px",
-          boxShadow: "0 0 30px rgba(168,85,247,0.25)",
           backdropFilter: "blur(10px)",
         }}
       >
@@ -129,6 +131,7 @@ export default function Home() {
         </div>
 
         <div
+          className="dare-reveal"
           style={{
             minHeight: "160px",
             display: "flex",
@@ -148,6 +151,7 @@ export default function Home() {
         </div>
 
         <button
+          className="spin-button"
           onClick={spinDare}
           style={{
             padding: "16px 42px",
@@ -164,9 +168,11 @@ export default function Home() {
         >
           🎲 SPIN
         </button>
-       {dare !== "Press SPIN to get a dare 🎲" && (
-  <VideoRecorder dare={dare} />
-)}
+
+        {dare !== "Press SPIN to get a dare 🎲" && (
+          <VideoRecorder dare={dare} />
+        )}
+
         <div
           style={{
             display: "flex",
@@ -174,6 +180,7 @@ export default function Home() {
             justifyContent: "center",
             flexWrap: "wrap",
             marginBottom: "22px",
+            marginTop: "18px",
           }}
         >
           <button
@@ -216,11 +223,25 @@ export default function Home() {
             marginTop: "10px",
           }}
         >
-          <a href="/daily-dare" style={{ color: "#93c5fd", textDecoration: "none", fontWeight: "600" }}>
+          <a
+            href="/daily-dare"
+            style={{
+              color: "#93c5fd",
+              textDecoration: "none",
+              fontWeight: "600",
+            }}
+          >
             Daily Dare
           </a>
 
-          <a href="/challenge" style={{ color: "#93c5fd", textDecoration: "none", fontWeight: "600" }}>
+          <a
+            href="/challenge"
+            style={{
+              color: "#93c5fd",
+              textDecoration: "none",
+              fontWeight: "600",
+            }}
+          >
             Challenge Friend
           </a>
         </div>
