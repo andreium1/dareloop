@@ -15,7 +15,9 @@ export default function Home() {
     return 20
   })
   const [category, setCategory] = useState("mix")
-
+  function handleWheel(result) { 
+    setDare(result.text)
+    }
   function spinDare() {
     if (spins <= 0) {
       alert("No spins left. Share Dareloop to unlock more 🔓")
