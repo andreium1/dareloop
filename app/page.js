@@ -5,7 +5,13 @@ import dares from "../dareloop_1000_dares.json"
 
 export default function Home() {
   const [dare, setDare] = useState("Press SPIN to get a dare 🎲")
-  const [spins, setSpins] = useState(20)
+  const [spins, setSpins] = useState(() => {
+  if (typeof window !== "undefined") {
+    const saved = localStorage.getItem("spins")
+    return saved ? parseInt(saved) : 20
+  }
+  return 20
+})
   const [category, setCategory] = useState("mix")
 
   function spinDare() {
@@ -23,8 +29,9 @@ export default function Home() {
     const random = pool[Math.floor(Math.random() * pool.length)]
     setDare(random.text)
     setSpins(spins - 1)
+    localStorage.setItem("spins", spins - 1)
   }
-
+  
   function unlockSpins() {
     const message = encodeURIComponent(
       `I dare you 😈\n\nPlay Dareloop here:\n${window.location.href}`
@@ -32,8 +39,10 @@ export default function Home() {
 
     window.open(`https://wa.me/?text=${message}`, "_blank")
     setSpins(spins + 10)
+    localStorage.setItem("spins", spins + 10)
   }
-
+    
+  
   function shareDare() {
     const text = encodeURIComponent(`${dare}\n\nPlay here: ${window.location.href}`)
     window.open(`https://wa.me/?text=${text}`, "_blank")
