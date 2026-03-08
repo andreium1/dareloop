@@ -1,5 +1,5 @@
 "use client"
-
+import VideoRecorder from "../components/VideoRecorder"
 import { useState } from "react"
 import dares from "../dareloop_1000_dares.json"
 
