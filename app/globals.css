@@ -1,0 +1,111 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(135deg, #0f172a, #1e1b4b, #111827);
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+@keyframes glowPulse {
+  0% {
+    box-shadow: 0 0 20px rgba(168, 85, 247, 0.18);
+  }
+  50% {
+    box-shadow: 0 0 40px rgba(168, 85, 247, 0.35);
+  }
+  100% {
+    box-shadow: 0 0 20px rgba(168, 85, 247, 0.18);
+  }
+}
+
+@keyframes fadeSlide {
+  0% {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes floatBg {
+  0% {
+    transform: translateY(0px) translateX(0px);
+  }
+  50% {
+    transform: translateY(-10px) translateX(8px);
+  }
+  100% {
+    transform: translateY(0px) translateX(0px);
+  }
+}
+
+@keyframes buttonPop {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.04);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.animated-shell {
+  position: relative;
+  overflow: hidden;
+}
+
+.animated-shell::before,
+.animated-shell::after {
+  content: "";
+  position: absolute;
+  border-radius: 999px;
+  filter: blur(70px);
+  opacity: 0.22;
+  animation: floatBg 8s ease-in-out infinite;
+  pointer-events: none;
+}
+
+.animated-shell::before {
+  width: 220px;
+  height: 220px;
+  background: #a855f7;
+  top: -60px;
+  left: -60px;
+}
+
+.animated-shell::after {
+  width: 200px;
+  height: 200px;
+  background: #06b6d4;
+  bottom: -50px;
+  right: -40px;
+  animation-delay: 1.5s;
+}
+
+.glow-card {
+  animation: glowPulse 3s ease-in-out infinite;
+}
+
+.dare-reveal {
+  animation: fadeSlide 0.45s ease;
+}
+
+.spin-button {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.spin-button:hover {
+  transform: translateY(-2px) scale(1.03);
+  box-shadow: 0 0 28px rgba(34, 197, 94, 0.45);
+}
+
+.spin-button:active {
+  animation: buttonPop 0.18s ease;
+}
