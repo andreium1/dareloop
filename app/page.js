@@ -164,7 +164,9 @@ export default function Home() {
         >
           🎲 SPIN
         </button>
-        <VideoRecorder dare={dare} />
+       {dare !== "Press SPIN to get a dare 🎲" && (
+  <VideoRecorder dare={dare} />
+)}
         <div
           style={{
             display: "flex",
